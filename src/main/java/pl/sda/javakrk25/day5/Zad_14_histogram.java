@@ -18,3 +18,4 @@ public class Zad_14_histogram {
         }
     }
 }
+// Nowe zmiany
