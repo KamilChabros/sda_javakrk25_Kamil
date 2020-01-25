@@ -4,8 +4,7 @@ import java.util.Random;
 
 public class Zad_14_histogram {
 // Nowe zmiany 22
-// nowe zmiany na branchy tsest-branch-3
-//nowe zmiany na master
+// nowe zmiany na branch-test-3
 public static void main(String[] args) {
     int[] histogram = new int[10];
     Random random = new Random();
@@ -16,8 +15,8 @@ public static void main(String[] args) {
     }
 
     for (int i = 0; i < histogram.length; i++) {
-            System.out.println(String.format("%d -> %d", i, histogram[i]));
-        }
-    } // Nowe zmiany 3
+        System.out.println(String.format("%d -> %d", i, histogram[i]));
+    }
+} // Nowe zmiany 3
 }
 // Nowe zmiany
