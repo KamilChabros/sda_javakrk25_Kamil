@@ -3,6 +3,8 @@ package pl.sda.javakrk25.practising.ex_1;
 public class Ex_12_array_intersect {
     public static void main(String[] args) {
 
+        // Program zwraca czesc wspolna 3 tablic
+
         int[] tab1 = {1, 2, 3, 4, 5};
         int[] tab2 = {4, 5, 6, 7};
         int[] tab3 = {4};
