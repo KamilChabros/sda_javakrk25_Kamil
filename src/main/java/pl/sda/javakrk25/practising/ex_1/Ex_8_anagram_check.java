@@ -1,5 +1,7 @@
 package pl.sda.javakrk25.practising.ex_1;
 
+import java.util.Arrays;
+
 public class Ex_8_anagram_check {
     /**
      * Sprawdzić czy podane słowa to anagram
