@@ -1,6 +1,6 @@
 package pl.sda.javakrk25.practising.ex_12;
 
-import pl.sda.javakrk25.practising.ex_14.ArrayUtil;
+import pl.sda.javakrk25.practising.ArrayUtil;
 
 public class Ex_12_array_intersect {
     public static void main(String[] args) {
