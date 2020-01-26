@@ -1,4 +1,4 @@
-package pl.sda.javakrk25.practising.ex_14;
+package pl.sda.javakrk25.practising;
 
 import java.util.Arrays;
 
