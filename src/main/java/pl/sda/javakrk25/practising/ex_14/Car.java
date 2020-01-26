@@ -1,9 +1,9 @@
-package pl.sda.javakrk25.practising.ex_1;
+package pl.sda.javakrk25.practising.ex_14;
 
 public class Car extends Vehicle {
     private static final int MAX_SPEED = 120;
 
-    int engineVolume;
+    public int engineVolume;
 
     public Car(int speed, int engineVolume) {
         super(speed, MAX_SPEED);

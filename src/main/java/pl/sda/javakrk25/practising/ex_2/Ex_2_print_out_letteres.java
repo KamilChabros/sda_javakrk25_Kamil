@@ -1,4 +1,4 @@
-package pl.sda.javakrk25.practising.ex_1;
+package pl.sda.javakrk25.practising.ex_2;
 
 public class Ex_2_print_out_letteres {
     /**

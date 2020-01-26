@@ -1,4 +1,4 @@
-package pl.sda.javakrk25.practising.ex_1;
+package pl.sda.javakrk25.practising.ex_9;
 
 public class Ex_9_string_contains_check {
     /**

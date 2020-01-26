@@ -1,4 +1,4 @@
-package pl.sda.javakrk25.practising.ex_1;
+package pl.sda.javakrk25.practising.ex_5;
 
 import java.util.Scanner;
 

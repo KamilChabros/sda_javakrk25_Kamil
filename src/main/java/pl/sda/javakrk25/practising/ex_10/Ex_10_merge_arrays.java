@@ -1,4 +1,4 @@
-package pl.sda.javakrk25.practising.ex_1;
+package pl.sda.javakrk25.practising.ex_10;
 
 public class Ex_10_merge_arrays {
     /**

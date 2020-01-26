@@ -1,4 +1,4 @@
-package pl.sda.javakrk25.practising.ex_1;
+package pl.sda.javakrk25.practising.ex_4;
 
 public class Ex_4_wydawanie_kwoty {
     /**
