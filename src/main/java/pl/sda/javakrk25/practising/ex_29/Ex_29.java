@@ -1,6 +1,9 @@
 package pl.sda.javakrk25.practising.ex_29;
 
 public class Ex_29 {
+
+    // Najbliższy i najdalszy punkt od podanego
+
     public static void main(String[] args) {
         Point[] points = {new Point(2, 5), new Point(-5, -7), new Point(-1, -1), new Point(3, 1), new Point(-3, 5)};
         Point a = new Point(1, 1);
